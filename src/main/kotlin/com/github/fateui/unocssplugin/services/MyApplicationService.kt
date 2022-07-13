@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fateui.unocssplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fateui.unocssplugin.MyBundle
 
 class MyApplicationService {
 
